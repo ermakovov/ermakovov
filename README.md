@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Oleg and I ❤️ Web
 
-Currently, I'm working as Full Stack Engineer in [DinoLab](https://landing.dinolab.com/) - educational startup offering an interactive platform for students, parents, and teachers
+Currently, I'm working as Full Stack Engineer in <a href="https://landing.dinolab.com/" target="_blank">DinoLab</a> - educational startup offering an interactive platform for students, parents, and teachers
 
 **Field of interests**: Web Development, Software Architecture, Infrastructure, CI/CD
 
@@ -9,9 +9,10 @@ Currently, I'm working as Full Stack Engineer in [DinoLab](https://landing.dinol
 - **Backend**: &nbsp;&nbsp;&nbsp; Ruby, Ruby on Rails, Python, Go, PostgreSQL, Redis, Kafka
 - **Others**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git, Docker, Ansible, Nginx, Bash
 
-📭 Reach me: [Email](mailto:oleg.v.ermakoff@gmail.com) or [LinkedIn](https://www.linkedin.com/in/ermakovov/)
+📭 Reach me: <a href="mailto:oleg.v.ermakoff@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/ermakovov/" target="_blank">LinkedIn</a>
 
-More information in my [CV](https://github.com/ermakovov/ermakovov/blob/master/Oleg-Ermakov-CV.pdf)
+
+More information in my <a href="https://github.com/ermakovov/ermakovov/blob/master/Oleg-Ermakov-CV.pdf" target="_blank">CV</a>
 
 ![](https://komarev.com/ghpvc/?username=ermakovov&color=blue)<br>
 
