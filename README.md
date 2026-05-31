@@ -1,13 +1,18 @@
 ## 👋 Hi, I'm Oleg and I ❤️ Web
 
-Currently, I'm working as Full Stack Engineer in <a href="https://landing.dinolab.com/" target="_blank">DinoLab</a> - educational startup offering an interactive platform for students, parents, and teachers
+Currently, I'm working as Full Stack Engineer in <a href="https://www.daedalus.de/" target="_blank">Daedalus GmbH</a> - an AI-driven precision manufacturing company combining a full-stack FactoryOS with a highly automated physical production facility
 
-**Field of interests**: Web Development, Software Architecture, Infrastructure, CI/CD
+**Field of interests**: Web Development, 3D Processing, Industrial IoT, Software Architecture and Design, Infrastructure, CI/CD
 
 ### Technologies I use at work 🛠️
-- **Frontend**: &nbsp;&nbsp; JavaScript, TypeScript, React, Redux, Webpack, Styled Components, CSS3, HTML5
-- **Backend**: &nbsp;&nbsp;&nbsp; Ruby, Ruby on Rails, Python, Go, PostgreSQL, Redis, Kafka
-- **Others**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git, Docker, Ansible, Nginx, Bash
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, Python, SQL, Go, Kotlin, Ruby |
+| **Frontend & 3D Web** | React, React Three Fiber (R3F), Drei, Three.js, Tailwind CSS, Styled Components, Redux, Webpack, HTML5, CSS3 |
+| **Backend & APIs** | Python, Django, FastAPI, Flask, drf-spectacular (Swagger/OpenAPI), Gunicorn, PostgreSQL, Ruby, Ruby on Rails, Redis |
+| **3D Processing** | CadQuery, OpenCascade, Trimesh, Shapely, NumPy, SciPy, Dagster |
+| **DevOps & Infra** | GCP, AWS, Docker, Kubernetes, Terraform, Bazel, Kafka, Ansible, Git, Nginx, Bash |
+| **IoT & Wearables** | OPC UA, Wear OS (Android SDK), Jetpack Compose, FCM (Firebase Cloud Messaging) |
 
 📭 Reach me: <a href="mailto:oleg.v.ermakoff@gmail.com">Email</a> or <a href="https://www.linkedin.com/in/ermakovov/" target="_blank">LinkedIn</a>
 
@@ -15,18 +20,3 @@ Currently, I'm working as Full Stack Engineer in <a href="https://landing.dinola
 More information in my <a href="https://github.com/ermakovov/ermakovov/blob/master/Oleg-Ermakov-CV.pdf" target="_blank">CV</a>
 
 ![](https://komarev.com/ghpvc/?username=ermakovov&color=blue)<br>
-
-<!--
-**ermakovov/ermakovov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
