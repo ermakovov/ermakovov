@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Oleg and I ❤️ Web
+## 👋 Hi, I'm Oleg - Senior Full Stack Engineer building software that drives the physical world
 
 Currently, I'm working as Full Stack Engineer in <a href="https://www.daedalus.de/" target="_blank">Daedalus GmbH</a> - an AI-driven precision manufacturing company combining a full-stack FactoryOS with a highly automated physical production facility
 
